@@ -1,0 +1,39 @@
+//requirements for our project
+
+//we are book management company
+
+//books
+//isbn , title, publcation date, num page, author[], page no., category[]
+
+
+//authors
+//id, name,books[],
+
+//publications
+//id,name,books[]
+
+////we have to design and code an API over this.
+
+
+1.BOOKS
+
+we need an API;-
+to get all the books //done
+we have to get specific book //done
+to get a list of books based on categories //done
+to get a list of books based on languages //done
+
+
+2.AUTHORS
+
+nees an API-
+to get all the authors //done
+to get a specific author 
+to get a list of authors based on books //done
+
+3.publications
+
+we need an API-
+to get all the publications //done
+to get a specific publications //done
+t get a list of publications basedon the books //done
