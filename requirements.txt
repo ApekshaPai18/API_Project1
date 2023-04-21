@@ -37,3 +37,20 @@ we need an API-
 to get all the publications //done
 to get a specific publications //done
 t get a list of publications basedon the books //done
+
+
+//Post requirements
+1.add new book
+2.add new publications
+3.add new author
+
+//**********************************************//
+/////////////PUT/////////////////////////////////
+
+//update 
+
+/////////////////////////
+//////delete//////////////
+1.delete a book
+2.delete author from book
+3.delete author from book and released book from author
